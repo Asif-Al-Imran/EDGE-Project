@@ -1,4 +1,4 @@
-# 🧠 Python Training Projects Portfolio
+#  Enhancing Digital Government and Economy(EDGE)
 
 This repository contains a collection of projects developed during my **Python Training Program** conducted under the **EDGE (Enhancing Digital Government and Economy)** project of the **Bangladesh Computer Council (BCC)**, ICT Division.  
 
